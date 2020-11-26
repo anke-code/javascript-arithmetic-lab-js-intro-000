@@ -22,11 +22,13 @@ function divide(a, b){
   return number
 }
 
+var number
 function inc(a){
   number = a + 1;
   return number
 }
 
+var number
 function dec(a){
   number = a - 1;
   return number
