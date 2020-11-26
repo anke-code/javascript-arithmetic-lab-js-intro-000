@@ -23,13 +23,13 @@ function divide(a, b){
 }
 
 var number
-function inc(a){
+function increment(a){
   number = a + 1;
   return number
 }
 
 var number
-function dec(a){
+function decrement(a){
   number = a - 1;
   return number
 }
